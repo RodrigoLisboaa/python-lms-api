@@ -12,4 +12,5 @@ __pycache__/
 
 # Logs/artefatos
 *.log
+.vscode/
 out/
