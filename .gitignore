@@ -7,9 +7,6 @@ __pycache__/
 # Virtualenv
 .venv/
 
-# Poetry
-poetry.lock
-
 # Env
 .env
 
